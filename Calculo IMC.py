@@ -1,4 +1,4 @@
-''' < 16 magreeza grave
+''' < 16 magreza grave
 16 a < 17 Magreza moderada
 17 a < 18,5 Magreza leve
 18,5 a < 25 Saudável
